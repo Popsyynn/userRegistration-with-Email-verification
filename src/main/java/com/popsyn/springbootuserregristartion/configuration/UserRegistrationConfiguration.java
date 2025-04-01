@@ -14,6 +14,7 @@ import org.springframework.security.web.SecurityFilterChain;
 
 @Configuration
 @EnableWebSecurity
+//need to make some changes to this app
 public class UserRegistrationConfiguration {
 
     @Bean
